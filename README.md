@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Learning front-end and back-end technologies while exploring new technologies.
-- 🎓 &nbsp; Studying software engineering at ?????.
+- 🎓 &nbsp; Studying software engineering at SJQU.
 - 💼 &nbsp; Free software developers~.
 - 🌱 &nbsp; Experience in Vue, electron, mp-weixin development.
 
