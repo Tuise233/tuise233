@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Learning front-end and back-end technologies while exploring new technologies.
 - 🎓 &nbsp; Studying software engineering at SJQU.
-- 💼 &nbsp; Free software developers~.
+- 💼 &nbsp; Free software developer~.
 - 🌱 &nbsp; Experience in Vue, electron, mp-weixin, gtav-multiplayer server scripts development.
 
 <a href="https://github.com/tuise233">
